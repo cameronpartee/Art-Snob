@@ -13,7 +13,7 @@
 
 # Features
 
-🖼View artworks from great artists across all decades. 
+🖼 View artworks from great artists across all decades. 
 
 
 # Goals

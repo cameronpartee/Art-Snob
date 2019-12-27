@@ -10,8 +10,8 @@ struct ArtistList: View {
                 NavigationLink(destination: ArtistDetailView(artist: artist)) {
                     ArtistRow(artist: artist)
                 }
-            }
-        }.navigationBarTitle(Text("Artists"))
+            }.navigationBarTitle(Text("Artists"))
+        }
     }
 }
 

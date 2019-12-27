@@ -9,8 +9,7 @@ struct ArtistDetailView: View {
     
     var body: some View {
         VStack {
-            Text(artist.name).font(.largeTitle)
-            .fontWeight(.semibold)
+            Text(artist.name).font(.largeTitle).fontWeight(.semibold)
             ScrollView(.horizontal) {
                 HStack {
                     RectangleImage(artist: artist, index: "1").padding()

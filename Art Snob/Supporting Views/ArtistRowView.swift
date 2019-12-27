@@ -10,7 +10,7 @@ struct ArtistRow: View {
     var body: some View {
         HStack {
             Image(artist.name).resizable()
-            .frame(width: 70.0, height: 75.0)
+            .frame(width: 75.0, height: 90.0)
             Text(artist.name)
                 .font(.title)
                 .fontWeight(.semibold)
@@ -25,6 +25,6 @@ struct ArtistRow_Previews: PreviewProvider {
         Group {
             ArtistRow(artist: artistData[0])
             ArtistRow(artist: artistData[1])
-        }.previewLayout(.fixed(width: 350, height: 90))
+        }.previewLayout(.fixed(width: 350, height: 110))
     }
 }

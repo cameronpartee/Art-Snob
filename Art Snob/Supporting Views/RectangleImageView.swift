@@ -13,7 +13,8 @@ struct RectangleImage: View {
     var body: some View {
         VStack {
             Image(artist.name + index)
-            .frame(width: 300.0, height: 600.0)
+                .resizable()
+                .scaledToFit()
                 .clipShape(Rectangle())
                 .overlay(Rectangle().stroke(Color.white, lineWidth: 4))
                 .shadow(radius: 10)
@@ -27,6 +28,6 @@ struct RectangleImage_Previews: PreviewProvider {
         Group {
             RectangleImage(artist: artistData[0], index: "3")
             RectangleImage(artist: artistData[0], index: "2")
-        }.previewLayout(.fixed(width: 350, height:650))
+        }.previewLayout(.fixed(width: 400, height:500))
     }
 }

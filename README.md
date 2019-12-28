@@ -1,6 +1,6 @@
 # ArtSnob
 
-🎭  Mobile art gallery application for the iOS device complete with games and trivia
+🖼 iPhone Art Gallery using SwiftUI and JSON data
 
 ![Image](https://i.imgur.com/TLoUl1Pm.png)
 ![Image](https://i.imgur.com/UBENB5Dm.png)

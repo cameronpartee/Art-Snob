@@ -4,11 +4,10 @@
 
 ![Image](https://i.imgur.com/lGa4l6el.jpg)
 ![Image](https://i.imgur.com/P8CvCcEl.jpg)
-![Image](https://media.giphy.com/media/dt6diYF5wrhlc1YDer/giphy.gif)
 
 
 ![Image](https://i.imgur.com/BWa1pKWl.jpg)
-![Image](https://media.giphy.com/media/d8ornUDigaylQ8ziRM/giphy.gif)
+![Image](https://media.giphy.com/media/KffabP0cwoNBdMpUx1/giphy.gif)
 ![Image](https://media.giphy.com/media/d8ornUDigaylQ8ziRM/giphy.gif)
 
 

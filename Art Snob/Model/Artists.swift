@@ -8,3 +8,9 @@ struct Artists: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
 }
+
+struct Artists_Previews: PreviewProvider {
+    static var previews: some View {
+        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
+    }
+}

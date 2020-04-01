@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Art Snob
-//
-//  Created by Cameron  Partee on 12/26/19.
-//  Copyright © 2019 Cameron Partee. All rights reserved.
-//
-
 import UIKit
 import SwiftUI
 

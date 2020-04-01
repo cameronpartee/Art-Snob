@@ -2,8 +2,8 @@
 
 🖼 iPhone Art Gallery using SwiftUI and JSON data
 
-![Image](https://i.imgur.com/P8CvCcE.jpg)
-![Image](https://i.imgur.com/P8CvCcE.jpg)
+![Image](https://i.imgur.com/P8CvCcEl.jpg)
+![Image](https://i.imgur.com/P8CvCcEl.jpg)
 
 
 

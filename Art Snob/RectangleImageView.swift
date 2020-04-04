@@ -27,7 +27,6 @@ struct RectangleImage_Previews: PreviewProvider {
         // sample data preview
         Group {
             RectangleImage(artist: artistData[0], index: "3")
-            RectangleImage(artist: artistData[0], index: "2")
         }.previewLayout(.fixed(width: 400, height:500))
     }
 }

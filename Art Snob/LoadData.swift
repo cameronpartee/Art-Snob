@@ -1,11 +1,7 @@
-//  Created by Cameron  Partee on 12/24/19.
-//  Copyright © 2019 Cameron Partee. All rights reserved.
-
 import UIKit
 import SwiftUI
 
-// functions for loading data.
-let artistData: [Artists] = load("csvjson.json")
+let artistData: [Artists] = load("Data.json")
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data
@@ -26,11 +22,5 @@ func load<T: Decodable>(_ filename: String) -> T {
         return try decoder.decode(T.self, from: data)
     } catch {
         fatalError("Couldn't parse \(filename) as \(T.self):\n\(error)")
-    }
-}
-
-struct Data_Previews: PreviewProvider {
-    static var previews: some View {
-        /*@START_MENU_TOKEN@*/Text("Hello, World!")/*@END_MENU_TOKEN@*/
     }
 }

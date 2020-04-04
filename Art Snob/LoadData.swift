@@ -1,7 +1,7 @@
 import UIKit
 import SwiftUI
 
-let artistData: [Artists] = load("Data.json")
+let ArtistData: [Artist] = load("Data.json")
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data

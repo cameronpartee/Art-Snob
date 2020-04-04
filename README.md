@@ -2,12 +2,12 @@
 
 🖼 iPhone Art Gallery using SwiftUI and JSON data
 
-![Image](https://i.imgur.com/gCQc8PKl.png)
-![Image](https://i.imgur.com/IpvFaSNl.png)
-
 ![Image](https://media.giphy.com/media/YOjqJcYkixkVCg4Lhv/giphy.gif)
 ![Image](https://media.giphy.com/media/XAZgML2fNUvstDlh6a/giphy.gif)
 ![Image](https://media.giphy.com/media/TILkGAjoxnJxB6Abic/giphy.gif)
+
+![Image](https://i.imgur.com/gCQc8PKl.png)
+![Image](https://i.imgur.com/IpvFaSNl.png)
 
 ![Image](https://i.imgur.com/lGa4l6el.jpg)
 ![Image](https://i.imgur.com/P8CvCcEl.jpg)

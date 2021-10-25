@@ -1,6 +1,4 @@
-# ArtSnob
-
-🖼 iPhone Art Gallery using SwiftUI and JSON data
+# iPhone Art
 
 ![Image](https://media.giphy.com/media/YOjqJcYkixkVCg4Lhv/giphy.gif)
 ![Image](https://media.giphy.com/media/XAZgML2fNUvstDlh6a/giphy.gif)
